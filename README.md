@@ -9,11 +9,11 @@ The primary goal of CardGrove is to address the needs of individuals who want to
 ## User-Centered UI Design
 To meet user needs and ensure a user-centered experience, CardGrove includes several key screens and features:
 
-### Login Screen: Allows users to securely access their card inventory.
-### Card Inventory Screen: Displays all cards in a grid format, showing card type, name, and quantity. This screen also includes options to add new cards, increase or decrease quantities, and delete cards.
-### Add Card Screen: Provides an intuitive interface for users to add new cards to their inventory, including fields for card name, type, and quantity.
-### SMS Permission Screen: Allows users to grant or revoke permissions for SMS notifications, ensuring they stay informed when inventory levels are low.
-The UI was designed with simplicity and ease of use in mind. By focusing on intuitive layouts, clear labels, and minimal clicks to perform tasks, the app keeps the user experience smooth and efficient. The successful design was validated through user testing, which confirmed that users could navigate the app and manage their cards without confusion.
+* Login Screen: Allows users to securely access their card inventory.
+* Card Inventory Screen: Displays all cards in a grid format, showing card type, name, and quantity. This screen also includes options to add new cards, increase or decrease quantities, and delete cards.
+* Add Card Screen: Provides an intuitive interface for users to add new cards to their inventory, including fields for card name, type, and quantity.
+* SMS Permission Screen: Allows users to grant or revoke permissions for SMS notifications, ensuring they stay informed when inventory levels are low.
+* The UI was designed with simplicity and ease of use in mind. By focusing on intuitive layouts, clear labels, and minimal clicks to perform tasks, the app keeps the user experience smooth and efficient. The successful design was validated through user testing, which confirmed that users could navigate the app and manage their cards without confusion.
 
 ## Coding Approach and Strategies
 The development of CardGrove was approached methodically, starting with a clear understanding of the app’s requirements and user needs. The following strategies were employed:
